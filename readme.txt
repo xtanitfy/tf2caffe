@@ -1,0 +1,3 @@
+1.运行python auto_generate_map.py生成layer_map.txt
+2.运行get_mobilenet_params.py提取权重数据
+3.caffe_load_params运行将tf转化为caffe格式

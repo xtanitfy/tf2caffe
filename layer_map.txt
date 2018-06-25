@@ -1,0 +1,102 @@
+conv1/dw Conv2d_0_depthwise-weights
+conv1/dw/bn Conv2d_0_depthwise-BatchNorm-moving_mean Conv2d_0_depthwise-BatchNorm-moving_variance
+conv1/dw/scale Conv2d_0_depthwise-BatchNorm-gamma Conv2d_0_depthwise-BatchNorm-beta
+conv1/sep Conv2d_0_pointwise-weights
+conv1/sep/bn Conv2d_0_pointwise-BatchNorm-moving_mean Conv2d_0_pointwise-BatchNorm-moving_variance
+conv1/sep/scale Conv2d_0_pointwise-BatchNorm-gamma Conv2d_0_pointwise-BatchNorm-beta
+conv2_1/dw Conv2d_1_depthwise-weights
+conv2_1/dw/bn Conv2d_1_depthwise-BatchNorm-moving_mean Conv2d_1_depthwise-BatchNorm-moving_variance
+conv2_1/dw/scale Conv2d_1_depthwise-BatchNorm-gamma Conv2d_1_depthwise-BatchNorm-beta
+conv2_1/sep Conv2d_1_pointwise-weights
+conv2_1/sep/bn Conv2d_1_pointwise-BatchNorm-moving_mean Conv2d_1_pointwise-BatchNorm-moving_variance
+conv2_1/sep/scale Conv2d_1_pointwise-BatchNorm-gamma Conv2d_1_pointwise-BatchNorm-beta
+conv2_2/dw Conv2d_2_depthwise-weights
+conv2_2/dw/bn Conv2d_2_depthwise-BatchNorm-moving_mean Conv2d_2_depthwise-BatchNorm-moving_variance
+conv2_2/dw/scale Conv2d_2_depthwise-BatchNorm-gamma Conv2d_2_depthwise-BatchNorm-beta
+conv2_2/sep Conv2d_2_pointwise-weights
+conv2_2/sep/bn Conv2d_2_pointwise-BatchNorm-moving_mean Conv2d_2_pointwise-BatchNorm-moving_variance
+conv2_2/sep/scale Conv2d_2_pointwise-BatchNorm-gamma Conv2d_2_pointwise-BatchNorm-beta
+conv3_1/dw Conv2d_3_depthwise-weights
+conv3_1/dw/bn Conv2d_3_depthwise-BatchNorm-moving_mean Conv2d_3_depthwise-BatchNorm-moving_variance
+conv3_1/dw/scale Conv2d_3_depthwise-BatchNorm-gamma Conv2d_3_depthwise-BatchNorm-beta
+conv3_1/sep Conv2d_3_pointwise-weights
+conv3_1/sep/bn Conv2d_3_pointwise-BatchNorm-moving_mean Conv2d_3_pointwise-BatchNorm-moving_variance
+conv3_1/sep/scale Conv2d_3_pointwise-BatchNorm-gamma Conv2d_3_pointwise-BatchNorm-beta
+conv3_2/dw Conv2d_4_depthwise-weights
+conv3_2/dw/bn Conv2d_4_depthwise-BatchNorm-moving_mean Conv2d_4_depthwise-BatchNorm-moving_variance
+conv3_2/dw/scale Conv2d_4_depthwise-BatchNorm-gamma Conv2d_4_depthwise-BatchNorm-beta
+conv3_2/sep Conv2d_4_pointwise-weights
+conv3_2/sep/bn Conv2d_4_pointwise-BatchNorm-moving_mean Conv2d_4_pointwise-BatchNorm-moving_variance
+conv3_2/sep/scale Conv2d_4_pointwise-BatchNorm-gamma Conv2d_4_pointwise-BatchNorm-beta
+conv4_1/dw Conv2d_5_depthwise-weights
+conv4_1/dw/bn Conv2d_5_depthwise-BatchNorm-moving_mean Conv2d_5_depthwise-BatchNorm-moving_variance
+conv4_1/dw/scale Conv2d_5_depthwise-BatchNorm-gamma Conv2d_5_depthwise-BatchNorm-beta
+conv4_1/sep Conv2d_5_pointwise-weights
+conv4_1/sep/bn Conv2d_5_pointwise-BatchNorm-moving_mean Conv2d_5_pointwise-BatchNorm-moving_variance
+conv4_1/sep/scale Conv2d_5_pointwise-BatchNorm-gamma Conv2d_5_pointwise-BatchNorm-beta
+conv4_2/dw Conv2d_6_depthwise-weights
+conv4_2/dw/bn Conv2d_6_depthwise-BatchNorm-moving_mean Conv2d_6_depthwise-BatchNorm-moving_variance
+conv4_2/dw/scale Conv2d_6_depthwise-BatchNorm-gamma Conv2d_6_depthwise-BatchNorm-beta
+conv4_2/sep Conv2d_6_pointwise-weights
+conv4_2/sep/bn Conv2d_6_pointwise-BatchNorm-moving_mean Conv2d_6_pointwise-BatchNorm-moving_variance
+conv4_2/sep/scale Conv2d_6_pointwise-BatchNorm-gamma Conv2d_6_pointwise-BatchNorm-beta
+conv5_1/dw Conv2d_7_depthwise-weights
+conv5_1/dw/bn Conv2d_7_depthwise-BatchNorm-moving_mean Conv2d_7_depthwise-BatchNorm-moving_variance
+conv5_1/dw/scale Conv2d_7_depthwise-BatchNorm-gamma Conv2d_7_depthwise-BatchNorm-beta
+conv5_1/sep Conv2d_7_pointwise-weights
+conv5_1/sep/bn Conv2d_7_pointwise-BatchNorm-moving_mean Conv2d_7_pointwise-BatchNorm-moving_variance
+conv5_1/sep/scale Conv2d_7_pointwise-BatchNorm-gamma Conv2d_7_pointwise-BatchNorm-beta
+conv5_2/dw Conv2d_8_depthwise-weights
+conv5_2/dw/bn Conv2d_8_depthwise-BatchNorm-moving_mean Conv2d_8_depthwise-BatchNorm-moving_variance
+conv5_2/dw/scale Conv2d_8_depthwise-BatchNorm-gamma Conv2d_8_depthwise-BatchNorm-beta
+conv5_2/sep Conv2d_8_pointwise-weights
+conv5_2/sep/bn Conv2d_8_pointwise-BatchNorm-moving_mean Conv2d_8_pointwise-BatchNorm-moving_variance
+conv5_2/sep/scale Conv2d_8_pointwise-BatchNorm-gamma Conv2d_8_pointwise-BatchNorm-beta
+conv5_3/dw Conv2d_9_depthwise-weights
+conv5_3/dw/bn Conv2d_9_depthwise-BatchNorm-moving_mean Conv2d_9_depthwise-BatchNorm-moving_variance
+conv5_3/dw/scale Conv2d_9_depthwise-BatchNorm-gamma Conv2d_9_depthwise-BatchNorm-beta
+conv5_3/sep Conv2d_9_pointwise-weights
+conv5_3/sep/bn Conv2d_9_pointwise-BatchNorm-moving_mean Conv2d_9_pointwise-BatchNorm-moving_variance
+conv5_3/sep/scale Conv2d_9_pointwise-BatchNorm-gamma Conv2d_9_pointwise-BatchNorm-beta
+conv5_4/dw Conv2d_10_depthwise-weights
+conv5_4/dw/bn Conv2d_10_depthwise-BatchNorm-moving_mean Conv2d_10_depthwise-BatchNorm-moving_variance
+conv5_4/dw/scale Conv2d_10_depthwise-BatchNorm-gamma Conv2d_10_depthwise-BatchNorm-beta
+conv5_4/sep Conv2d_10_pointwise-weights
+conv5_4/sep/bn Conv2d_10_pointwise-BatchNorm-moving_mean Conv2d_10_pointwise-BatchNorm-moving_variance
+conv5_4/sep/scale Conv2d_10_pointwise-BatchNorm-gamma Conv2d_10_pointwise-BatchNorm-beta
+conv5_5/dw Conv2d_11_depthwise-weights
+conv5_5/dw/bn Conv2d_11_depthwise-BatchNorm-moving_mean Conv2d_11_depthwise-BatchNorm-moving_variance
+conv5_5/dw/scale Conv2d_11_depthwise-BatchNorm-gamma Conv2d_11_depthwise-BatchNorm-beta
+conv5_5/sep Conv2d_11_pointwise-weights
+conv5_5/sep/bn Conv2d_11_pointwise-BatchNorm-moving_mean Conv2d_11_pointwise-BatchNorm-moving_variance
+conv5_5/sep/scale Conv2d_11_pointwise-BatchNorm-gamma Conv2d_11_pointwise-BatchNorm-beta
+conv5_6/dw Conv2d_12_depthwise-weights
+conv5_6/dw/bn Conv2d_12_depthwise-BatchNorm-moving_mean Conv2d_12_depthwise-BatchNorm-moving_variance
+conv5_6/dw/scale Conv2d_12_depthwise-BatchNorm-gamma Conv2d_12_depthwise-BatchNorm-beta
+conv5_6/sep Conv2d_12_pointwise-weights
+conv5_6/sep/bn Conv2d_12_pointwise-BatchNorm-moving_mean Conv2d_12_pointwise-BatchNorm-moving_variance
+conv5_6/sep/scale Conv2d_12_pointwise-BatchNorm-gamma Conv2d_12_pointwise-BatchNorm-beta
+conv6_1/dw Conv2d_13_depthwise-weights
+conv6_1/dw/bn Conv2d_13_depthwise-BatchNorm-moving_mean Conv2d_13_depthwise-BatchNorm-moving_variance
+conv6_1/dw/scale Conv2d_13_depthwise-BatchNorm-gamma Conv2d_13_depthwise-BatchNorm-beta
+conv6_1/sep Conv2d_13_pointwise-weights
+conv6_1/sep/bn Conv2d_13_pointwise-BatchNorm-moving_mean Conv2d_13_pointwise-BatchNorm-moving_variance
+conv6_1/sep/scale Conv2d_13_pointwise-BatchNorm-gamma Conv2d_13_pointwise-BatchNorm-beta
+conv6_2/dw Conv2d_14_depthwise-weights
+conv6_2/dw/bn Conv2d_14_depthwise-BatchNorm-moving_mean Conv2d_14_depthwise-BatchNorm-moving_variance
+conv6_2/dw/scale Conv2d_14_depthwise-BatchNorm-gamma Conv2d_14_depthwise-BatchNorm-beta
+conv6_2/sep Conv2d_14_pointwise-weights
+conv6_2/sep/bn Conv2d_14_pointwise-BatchNorm-moving_mean Conv2d_14_pointwise-BatchNorm-moving_variance
+conv6_2/sep/scale Conv2d_14_pointwise-BatchNorm-gamma Conv2d_14_pointwise-BatchNorm-beta
+conv6_3/dw Conv2d_15_depthwise-weights
+conv6_3/dw/bn Conv2d_15_depthwise-BatchNorm-moving_mean Conv2d_15_depthwise-BatchNorm-moving_variance
+conv6_3/dw/scale Conv2d_15_depthwise-BatchNorm-gamma Conv2d_15_depthwise-BatchNorm-beta
+conv6_3/sep Conv2d_15_pointwise-weights
+conv6_3/sep/bn Conv2d_15_pointwise-BatchNorm-moving_mean Conv2d_15_pointwise-BatchNorm-moving_variance
+conv6_3/sep/scale Conv2d_15_pointwise-BatchNorm-gamma Conv2d_15_pointwise-BatchNorm-beta
+conv7/dw Conv2d_16_depthwise-weights
+conv7/dw/bn Conv2d_16_depthwise-BatchNorm-moving_mean Conv2d_16_depthwise-BatchNorm-moving_variance
+conv7/dw/scale Conv2d_16_depthwise-BatchNorm-gamma Conv2d_16_depthwise-BatchNorm-beta
+conv7/sep Conv2d_16_pointwise-weights
+conv7/sep/bn Conv2d_16_pointwise-BatchNorm-moving_mean Conv2d_16_pointwise-BatchNorm-moving_variance
+conv7/sep/scale Conv2d_16_pointwise-BatchNorm-gamma Conv2d_16_pointwise-BatchNorm-beta
